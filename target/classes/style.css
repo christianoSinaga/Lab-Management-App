@@ -1,0 +1,59 @@
+
+
+.navbar-container{
+    -fx-background-color: #5C5552;
+    -fx-padding: 5px;
+}
+
+.navbar-button{
+    -fx-font-size: 18px;
+    -fx-background-color: #5C5552;
+}
+
+.topbar-button{   
+    -fx-background-color: #5C5552;
+}
+.main-pane-container{
+    -fx-background-color: #F1E0C5;
+}
+
+.blue-paragraph-container{
+    -fx-background-color: #6BA292;
+    -fx-background-radius: 40px 40px 40px 5px;
+}
+
+.search-bar-container{
+    -fx-background-color: #EED6AE;
+}
+
+.list-container{
+    -fx-background-color: #988A84;
+}
+.pink-container{
+    -fx-background-color: #F45B69;
+    -fx-background-radius: 40px;
+}
+
+.purple-container{
+    -fx-background-color: #D295BF;
+    -fx-background-radius: 40px;
+}
+
+/*HOVER*/
+.navbar-button:hover{
+    -fx-background-color: #3d3837;
+}
+
+.navbar-container:hover{
+    -fx-width: 500px;
+}
+
+.title-container{
+    -fx-color: #5C5552;
+    -fx-text-align: left;
+    -fx-padding: 10px;
+}
+
+.topbar-button:hover{
+    -fx-background-color: #3d3837
+}
